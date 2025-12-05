@@ -9,7 +9,8 @@
 - 📊 Exploring **Power BI, Pandas, Machine Learning**    
 - 📬 Reach me at: **npr3301@gmail.com**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +23,8 @@
 **Tools:**  
 `Git` · `GitHub` · `VS Code` 
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 ## 📂 Featured Projects
 
@@ -31,7 +33,10 @@
 | **DataSegmentor** | A data segmentation project for customer segmenation and analysis | Django, Logistic Regression, K-Means |
 | **AutoWise** | A vehicle selling platform with machine learning integrated | Django, Linear Regression |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+
+
 
 
 
